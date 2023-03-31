@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\sahith\\courses\\C#\\C# basics\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
+    "D:\\sahith\\courses\\C#\\C# basics\\Learning_Courses\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "D:\\sahith\\courses\\C#\\C# basics\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
+    "D:\\sahith\\courses\\C#\\C# basics\\Learning_Courses\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\sahith\\courses\\C#\\C# basics\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "D:\\sahith\\courses\\C#\\C# basics\\Learning_Courses\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "D:\\sahith\\courses\\C#\\C# basics\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "D:\\sahith\\courses\\C#\\C# basics\\Learning_Courses\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\SAHITH\\.nuget\\packages\\",
-        "outputPath": "D:\\sahith\\courses\\C#\\C# basics\\HelloWorld\\HelloWorld\\obj\\",
+        "outputPath": "D:\\sahith\\courses\\C#\\C# basics\\Learning_Courses\\HelloWorld\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SAHITH\\AppData\\Roaming\\NuGet\\NuGet.Config",

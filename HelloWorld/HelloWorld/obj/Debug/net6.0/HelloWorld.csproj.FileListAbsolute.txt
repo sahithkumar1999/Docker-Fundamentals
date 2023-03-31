@@ -1,0 +1,15 @@
+D:\sahith\courses\C#\C# basics\Learning_Courses\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+D:\sahith\courses\C#\C# basics\Learning_Courses\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+D:\sahith\courses\C#\C# basics\Learning_Courses\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+D:\sahith\courses\C#\C# basics\Learning_Courses\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+D:\sahith\courses\C#\C# basics\Learning_Courses\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+D:\sahith\courses\C#\C# basics\Learning_Courses\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+D:\sahith\courses\C#\C# basics\Learning_Courses\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\sahith\courses\C#\C# basics\Learning_Courses\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+D:\sahith\courses\C#\C# basics\Learning_Courses\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+D:\sahith\courses\C#\C# basics\Learning_Courses\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\sahith\courses\C#\C# basics\Learning_Courses\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+D:\sahith\courses\C#\C# basics\Learning_Courses\HelloWorld\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
+D:\sahith\courses\C#\C# basics\Learning_Courses\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+D:\sahith\courses\C#\C# basics\Learning_Courses\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+D:\sahith\courses\C#\C# basics\Learning_Courses\HelloWorld\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll
