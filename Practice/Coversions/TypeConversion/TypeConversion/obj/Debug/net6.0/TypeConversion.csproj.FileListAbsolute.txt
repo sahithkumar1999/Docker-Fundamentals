@@ -1,0 +1,15 @@
+D:\sahith\courses\C#\C# basics\Learning_Courses\Practice\Coversions\TypeConversion\TypeConversion\bin\Debug\net6.0\TypeConversion.exe
+D:\sahith\courses\C#\C# basics\Learning_Courses\Practice\Coversions\TypeConversion\TypeConversion\bin\Debug\net6.0\TypeConversion.deps.json
+D:\sahith\courses\C#\C# basics\Learning_Courses\Practice\Coversions\TypeConversion\TypeConversion\bin\Debug\net6.0\TypeConversion.runtimeconfig.json
+D:\sahith\courses\C#\C# basics\Learning_Courses\Practice\Coversions\TypeConversion\TypeConversion\bin\Debug\net6.0\TypeConversion.dll
+D:\sahith\courses\C#\C# basics\Learning_Courses\Practice\Coversions\TypeConversion\TypeConversion\bin\Debug\net6.0\TypeConversion.pdb
+D:\sahith\courses\C#\C# basics\Learning_Courses\Practice\Coversions\TypeConversion\TypeConversion\obj\Debug\net6.0\TypeConversion.csproj.AssemblyReference.cache
+D:\sahith\courses\C#\C# basics\Learning_Courses\Practice\Coversions\TypeConversion\TypeConversion\obj\Debug\net6.0\TypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\sahith\courses\C#\C# basics\Learning_Courses\Practice\Coversions\TypeConversion\TypeConversion\obj\Debug\net6.0\TypeConversion.AssemblyInfoInputs.cache
+D:\sahith\courses\C#\C# basics\Learning_Courses\Practice\Coversions\TypeConversion\TypeConversion\obj\Debug\net6.0\TypeConversion.AssemblyInfo.cs
+D:\sahith\courses\C#\C# basics\Learning_Courses\Practice\Coversions\TypeConversion\TypeConversion\obj\Debug\net6.0\TypeConversion.csproj.CoreCompileInputs.cache
+D:\sahith\courses\C#\C# basics\Learning_Courses\Practice\Coversions\TypeConversion\TypeConversion\obj\Debug\net6.0\TypeConversion.dll
+D:\sahith\courses\C#\C# basics\Learning_Courses\Practice\Coversions\TypeConversion\TypeConversion\obj\Debug\net6.0\refint\TypeConversion.dll
+D:\sahith\courses\C#\C# basics\Learning_Courses\Practice\Coversions\TypeConversion\TypeConversion\obj\Debug\net6.0\TypeConversion.pdb
+D:\sahith\courses\C#\C# basics\Learning_Courses\Practice\Coversions\TypeConversion\TypeConversion\obj\Debug\net6.0\TypeConversion.genruntimeconfig.cache
+D:\sahith\courses\C#\C# basics\Learning_Courses\Practice\Coversions\TypeConversion\TypeConversion\obj\Debug\net6.0\ref\TypeConversion.dll
