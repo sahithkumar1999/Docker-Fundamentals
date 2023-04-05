@@ -1,0 +1,15 @@
+D:\sahith\courses\C#\C# basics\Learning_Courses\Practice\Reference type and value types\CSharpFundamentals\CSharpFundamentals\bin\Debug\net6.0\CSharpFundamentals.exe
+D:\sahith\courses\C#\C# basics\Learning_Courses\Practice\Reference type and value types\CSharpFundamentals\CSharpFundamentals\bin\Debug\net6.0\CSharpFundamentals.deps.json
+D:\sahith\courses\C#\C# basics\Learning_Courses\Practice\Reference type and value types\CSharpFundamentals\CSharpFundamentals\bin\Debug\net6.0\CSharpFundamentals.runtimeconfig.json
+D:\sahith\courses\C#\C# basics\Learning_Courses\Practice\Reference type and value types\CSharpFundamentals\CSharpFundamentals\bin\Debug\net6.0\CSharpFundamentals.dll
+D:\sahith\courses\C#\C# basics\Learning_Courses\Practice\Reference type and value types\CSharpFundamentals\CSharpFundamentals\bin\Debug\net6.0\CSharpFundamentals.pdb
+D:\sahith\courses\C#\C# basics\Learning_Courses\Practice\Reference type and value types\CSharpFundamentals\CSharpFundamentals\obj\Debug\net6.0\CSharpFundamentals.csproj.AssemblyReference.cache
+D:\sahith\courses\C#\C# basics\Learning_Courses\Practice\Reference type and value types\CSharpFundamentals\CSharpFundamentals\obj\Debug\net6.0\CSharpFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+D:\sahith\courses\C#\C# basics\Learning_Courses\Practice\Reference type and value types\CSharpFundamentals\CSharpFundamentals\obj\Debug\net6.0\CSharpFundamentals.AssemblyInfoInputs.cache
+D:\sahith\courses\C#\C# basics\Learning_Courses\Practice\Reference type and value types\CSharpFundamentals\CSharpFundamentals\obj\Debug\net6.0\CSharpFundamentals.AssemblyInfo.cs
+D:\sahith\courses\C#\C# basics\Learning_Courses\Practice\Reference type and value types\CSharpFundamentals\CSharpFundamentals\obj\Debug\net6.0\CSharpFundamentals.csproj.CoreCompileInputs.cache
+D:\sahith\courses\C#\C# basics\Learning_Courses\Practice\Reference type and value types\CSharpFundamentals\CSharpFundamentals\obj\Debug\net6.0\CSharpFundamentals.dll
+D:\sahith\courses\C#\C# basics\Learning_Courses\Practice\Reference type and value types\CSharpFundamentals\CSharpFundamentals\obj\Debug\net6.0\refint\CSharpFundamentals.dll
+D:\sahith\courses\C#\C# basics\Learning_Courses\Practice\Reference type and value types\CSharpFundamentals\CSharpFundamentals\obj\Debug\net6.0\CSharpFundamentals.pdb
+D:\sahith\courses\C#\C# basics\Learning_Courses\Practice\Reference type and value types\CSharpFundamentals\CSharpFundamentals\obj\Debug\net6.0\CSharpFundamentals.genruntimeconfig.cache
+D:\sahith\courses\C#\C# basics\Learning_Courses\Practice\Reference type and value types\CSharpFundamentals\CSharpFundamentals\obj\Debug\net6.0\ref\CSharpFundamentals.dll
