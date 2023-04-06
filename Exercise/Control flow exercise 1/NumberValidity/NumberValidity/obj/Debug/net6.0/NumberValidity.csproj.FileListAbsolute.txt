@@ -1,0 +1,15 @@
+D:\sahith\courses\C#\C# basics\Learning_Courses\Exercise\Control flow exercise 1\NumberValidity\NumberValidity\bin\Debug\net6.0\NumberValidity.exe
+D:\sahith\courses\C#\C# basics\Learning_Courses\Exercise\Control flow exercise 1\NumberValidity\NumberValidity\bin\Debug\net6.0\NumberValidity.deps.json
+D:\sahith\courses\C#\C# basics\Learning_Courses\Exercise\Control flow exercise 1\NumberValidity\NumberValidity\bin\Debug\net6.0\NumberValidity.runtimeconfig.json
+D:\sahith\courses\C#\C# basics\Learning_Courses\Exercise\Control flow exercise 1\NumberValidity\NumberValidity\bin\Debug\net6.0\NumberValidity.dll
+D:\sahith\courses\C#\C# basics\Learning_Courses\Exercise\Control flow exercise 1\NumberValidity\NumberValidity\bin\Debug\net6.0\NumberValidity.pdb
+D:\sahith\courses\C#\C# basics\Learning_Courses\Exercise\Control flow exercise 1\NumberValidity\NumberValidity\obj\Debug\net6.0\NumberValidity.csproj.AssemblyReference.cache
+D:\sahith\courses\C#\C# basics\Learning_Courses\Exercise\Control flow exercise 1\NumberValidity\NumberValidity\obj\Debug\net6.0\NumberValidity.GeneratedMSBuildEditorConfig.editorconfig
+D:\sahith\courses\C#\C# basics\Learning_Courses\Exercise\Control flow exercise 1\NumberValidity\NumberValidity\obj\Debug\net6.0\NumberValidity.AssemblyInfoInputs.cache
+D:\sahith\courses\C#\C# basics\Learning_Courses\Exercise\Control flow exercise 1\NumberValidity\NumberValidity\obj\Debug\net6.0\NumberValidity.AssemblyInfo.cs
+D:\sahith\courses\C#\C# basics\Learning_Courses\Exercise\Control flow exercise 1\NumberValidity\NumberValidity\obj\Debug\net6.0\NumberValidity.csproj.CoreCompileInputs.cache
+D:\sahith\courses\C#\C# basics\Learning_Courses\Exercise\Control flow exercise 1\NumberValidity\NumberValidity\obj\Debug\net6.0\NumberValidity.dll
+D:\sahith\courses\C#\C# basics\Learning_Courses\Exercise\Control flow exercise 1\NumberValidity\NumberValidity\obj\Debug\net6.0\refint\NumberValidity.dll
+D:\sahith\courses\C#\C# basics\Learning_Courses\Exercise\Control flow exercise 1\NumberValidity\NumberValidity\obj\Debug\net6.0\NumberValidity.pdb
+D:\sahith\courses\C#\C# basics\Learning_Courses\Exercise\Control flow exercise 1\NumberValidity\NumberValidity\obj\Debug\net6.0\NumberValidity.genruntimeconfig.cache
+D:\sahith\courses\C#\C# basics\Learning_Courses\Exercise\Control flow exercise 1\NumberValidity\NumberValidity\obj\Debug\net6.0\ref\NumberValidity.dll
