@@ -43,3 +43,160 @@ static void Main()
 If any of the aforementioned requirements is not met, the program will 
 compile but it will not start because the starting point is not defined correctly.
 
+[Click here for more Keywords](https://github.com/sahithkumar1999/Learning_Courses/blob/C%23_Basics/Notes/KeyWords.md)
+
+## The Program Code Must Be Correctly Formatted
+Formatting is adding characters such as spaces, tabs and new lines, which are 
+insignificant to the compiler and they give the code a logical structure and 
+make it easier to read. Let’s for example take a look at our first program 
+(the short version of the Main() method):
+```
+class HelloCSharp
+{
+  static void Main()
+  {
+    System.Console.WriteLine("Hello C#!");
+  }
+}
+```
+The program contains seven lines of code and some of them are indented 
+more than others. All of that can be written without tabs as well, like so:
+```
+class HelloCSharp
+{
+static void Main()
+{
+System.Console.WriteLine("Hello C#!");
+}
+}
+```
+Or on the same line:
+```
+class HelloCSharp{static void Main(){System.Console.WriteLine( 
+"Hello C#!");}}
+```
+Or even like this:
+```
+ class
+ HelloCSharp
+{
+ static void Main()
+ { System .
+Console.WriteLine("Hello C#!") ;} }
+```
+The examples above will compile and run exactly like the formatted code but 
+they are more difficult to read and understand, and therefore difficult to 
+modify and maintain.
+
+## KeyWords
+![image](https://github.com/sahithkumar1999/Learning_Courses/assets/64829519/e653a6d5-661e-4cfb-ade0-61fac21e3b06)
+![image](https://github.com/sahithkumar1999/Learning_Courses/assets/64829519/7146f407-54a3-4ab8-8189-dea8dd71f9a6)
+
+## The .NET Platform
+The .NET platform contains the C# language, CLR and many auxiliary 
+instruments and libraries ready for use. There are a few versions of .NET 
+according to the targeted user group:
+- .NET Framework is the most common version of the .NET environment 
+because of its general purpose. It is used in the development of console 
+applications, Windows applications with a graphical user interface, web 
+applications and many more.
+- .NET Compact Framework (CF) is a "light" version of the standard 
+.NET Framework and is used in the development of applications for 
+mobile phones and other PDA devices using Windows Mobile Edition.
+- Silverlight is also a "light" version of the .NET Framework, intended to 
+be executed on web browsers in order to implement multimedia and 
+Rich Internet Applications.
+- .NET for Windows Store apps is a subset of .NET Framework 
+designed for development and execution of .NET applications in 
+Windows 8 and Windows RT environment (the so called Windows 
+Store Apps).
+### .NET Framework
+The standard version of the .NET platform is intended for development and 
+use of console applications, desktop applications, Web applications, Web 
+services, Rich Internet Applications, mobile applications for tablets and smart 
+phones and many more. Almost all .NET developers use the standard version.
+
+## Data Types
+- Integer types – sbyte, byte, short, ushort, int, uint, long, ulong;
+- Real floating-point types – float, double;
+- Real type with decimal precision – decimal;
+- Boolean type – bool;
+- Character type – char;
+- String – string;
+- Object type – object.
+
+
+![image](https://github.com/sahithkumar1999/Learning_Courses/assets/64829519/ab8cb6c9-0f2b-4171-a502-c9da55785342)
+
+### Integer Types
+Integer types represent integer numbers and are sbyte, byte, short, 
+ushort, int, uint, long and ulong. Let’s examine them one by one.
+- The sbyte type is an 8-bit signed integer. This means that the number of 
+possible values for it is 2^8
+, i.e. 256 values altogether, and they can be both, 
+positive and negative. The minimum value that can be stored in sbyte is 
+SByte.MinValue = -128 (-2
+7
+), and the maximum value is SByte.MaxValue = 
+127 (27
+-1). The default value is the number 0
+Formula : -2^n to (2^n - 1)
+```
+double result = Math.Pow(2, n);
+Console.WriteLine($"2^{n} = {result}");
+```
+
+```
+SByte MinValue = SByte.MinValue;
+SByte MaxVal = SByte.MaxValue;
+Console.WriteLine(MinValue);
+Console.WriteLine(MaxVal);
+```
+- The int type is the most often used type in programming. Usually 
+programmers use int when they work with integers because this type is 
+natural for the 32-bit microprocessor and is sufficiently "big" for most of the 
+calculations performed in everyday life
+- The uint type is 32-bit unsigned integer type. Its default value is the 
+number 0u or 0U (the two are equivalent). The 'u' letter indicates that the 
+number is of type uint (otherwise it is understood as int). The minimum value that it can take is UInt32.MinValue = 0, and the maximum value is 
+UInt32.MaxValue = 4,294,967,295 (2^32-1).
+- The long type is a 64-bit signed type with a default value of 0l or 0L (the 
+two are equivalent but it is preferable to use 'L' because the letter 'l' is easily 
+mistaken for the digit one '1'). The 'L' letter indicates that the number is of 
+type long (otherwise it is understood int). The minimal value that can be 
+stored in the long type is
+```
+Int64.MinValue = -9,223,372,036,854,775,808
+(-2^63) and its maximum value is
+Int64.MaxValue = 9,223,372,036,854,
+775,807  (2^63-1).
+```
+- The biggest integer type is the ulong type. It is a 64-bit unsigned type, 
+which has as a default value – the number 0u, or 0U (the two are equivalent). 
+The suffix 'u' indicates that the number is of type ulong (otherwise it is 
+understood as long). The minimum value that can be recorded in the ulong
+type is
+```
+UInt64.MinValue = 0 and the maximum is UInt64.MaxValue = 
+18,446,744,073,709,551,615 (2^64-1).
+```
+## Integer Types – Example
+```
+// Declare some variables
+byte centuries = 20;
+ushort years = 2000;
+uint days = 730480;
+ulong hours = 17531520;
+// Print the result on the console
+Console.WriteLine(centuries + " centuries are " + years +
+" years, or " + days + " days, or " + hours + " hours.");
+// Console output:
+// 20 centuries are 2000 years, or 730480 days, or 17531520
+// hours.
+ulong maxIntValue = UInt64.MaxValue;
+Console.WriteLine(maxIntValue); // 18446744073709551615
+```
+
+
+
+
