@@ -1,6 +1,6 @@
 name: "General_Issue"
 description: "Can be used for general issues"
-title: # Unable to Commit code to GitHub
+title: . # Unable to Commit code to GitHub
 body:
 - type: markdown
   attributes:
