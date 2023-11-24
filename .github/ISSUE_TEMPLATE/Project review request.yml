@@ -6,7 +6,7 @@ assignees: ["ddobric","sahithkumar1999","MahdiehPirmoradian"]
 body:
 - type: markdown
   attributes:
-    value: "We would like you to review our software engineering project. Please find detailed information and accompanying snapshots below for your reference. "
+    value: "Hello Professor,We would like you to review our software engineering project. Please find detailed information and accompanying snapshots below for your reference. "
 - type: dropdown
   id: typeofenvi
   attributes:
@@ -18,17 +18,30 @@ body:
       - Others
   validations:
     required: true
-- type: textarea
+type: textarea
   attributes:
-    label: "Brief summary of your project."
-- type: textarea
-  attributes:
-    label: "Please include corresponding images or screenshots that reference the identified issue."
+    label: "The Assigned Problem Statement:"
   validations:
     required: true
 - type: textarea
   attributes:
-    label: "Please share the URL of the code related to the issue."
+    label: "Brief summary of your project."
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: "Provide project repository's URL"
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: "Link of main Project code file"
+- type: textarea
+  attributes:
+    label: "Link of Unit tests code file"
+- type: textarea
+  attributes:
+    label: "Mention names of the existing program Files, if any changes were made to it"
 - type: checkboxes
   id: selfdeclaration 
   attributes:
