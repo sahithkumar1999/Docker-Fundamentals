@@ -1,6 +1,9 @@
+blank_issues_enabled: true
 name: "General_Issue"
 description: "Can be used for general issues"
-title: . # Unable to Commit code to GitHub
+title: Unable to Commit code to GitHub
+contact_links:
+  - 
 body:
 - type: markdown
   attributes:
@@ -9,3 +12,4 @@ body:
 - type: textarea
   attributes:
     label: "Type your Issue below"
+    
