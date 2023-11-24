@@ -1,6 +1,7 @@
 name: "General_Issue"
 description: "Can be used for general issues"
 title: Unable to Commit code to GitHub
+labels: ["help wanted"]
 body:
 - type: dropdown
   id: typeofissue
