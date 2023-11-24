@@ -23,6 +23,21 @@ body:
     label: The Assigned Problem Statement
   validations:
     required: true
+- type: checkboxes
+  id: documentationfolder 
+  attributes:
+    label: documentation folder must contain the following files
+    options:
+      - label: your research paper in word format
+        required: true
+      - label: your research paper in PDF format
+        required: true
+      - label: Project Power Point Presentation
+        required: true
+      - label: Presentation Recorded video
+        required: true
+      - label: Readme file
+        required: true
 - type: textarea
   attributes:
     label: Brief summary of your project.
