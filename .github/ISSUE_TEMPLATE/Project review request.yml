@@ -1,6 +1,7 @@
 name: "Project review request"
-description: "Applicable to general concerns."
-labels: ["help wanted"]
+description: "Can be used for your final project submission's"
+# labels: [""]
+assignees: ["ddobric"]
 body:
 - type: dropdown
   id: typeofissue
