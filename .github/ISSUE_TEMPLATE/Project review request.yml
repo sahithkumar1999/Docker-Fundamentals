@@ -1,18 +1,17 @@
 name: "Project review request"
 description: "Can be used for your final project submission's"
+title: "ML23/24-1 Project_Name Group_Name"
 # labels: [""]
 assignees: ["ddobric"]
 body:
 - type: dropdown
-  id: typeofissue
+  id: typeofenvi
   attributes:
-    label: Choose the issue type from the dropdown menu.
+    label: Choose the Github Repository from the dropdown menu.
     options:
-      - GitHub Commit
-      - Code Debug
-      - Regarding Tasks (or) Exercises
-      - Unable to access Azure Portal
-      - Update details in Attendence list
+      - se-cloud-2023-2024
+      - se-cloud-2022-2023
+      - Forked NeocortexApi
       - Others
   validations:
     required: true
