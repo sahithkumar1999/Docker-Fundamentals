@@ -25,12 +25,11 @@ body:
     required: true
 - type: textarea
   attributes:
-    label: "provide the code URL"
+    label: "Please share the URL of the code related to the issue."
 - type: checkboxes
   id: selfdeclaration 
   attributes:
     label: Self declarations 
-    description: You may select more than one.
     options:
       - label: I conducted research on my own before bringing up the matter.
         required: true
