@@ -1,4 +1,4 @@
-name: "Bug report"
+name: "General_Issue"
 description: "Thank you for reporting a bug!"
 body:
 - type: markdown
