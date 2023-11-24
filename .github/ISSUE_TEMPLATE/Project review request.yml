@@ -56,6 +56,8 @@ body:
 - type: textarea
   attributes:
     label: Link of main Project code file
+  validations:
+    required: true
 - type: textarea
   attributes:
     label: Link of Unit tests code file
@@ -65,10 +67,5 @@ body:
 - type: textarea
   attributes:
     label: Provide individual Commit links for the project. For Example Best_Group_Ever?author=Github_UserName Student1 .. Student 2..
-- type: checkboxes
-  id: selfdeclaration 
-  attributes:
-    label: Self declarations 
-    options:
-      - label: I conducted research on my own before bringing up the matter.
-        required: true
+  validations:
+    required: true
