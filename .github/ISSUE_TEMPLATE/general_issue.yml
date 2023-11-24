@@ -21,6 +21,11 @@ body:
   attributes:
     label: "provide repective images or screenshots refering to the issue"
     label: "provide the code URL"
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: "provide the code URL"
 - type: checkboxes
   id: selfdeclaration 
   attributes:
