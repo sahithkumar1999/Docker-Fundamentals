@@ -6,7 +6,10 @@ assignees: ["ddobric","sahithkumar1999","MahdiehPirmoradian"]
 body:
 - type: markdown
   attributes:
-    value: "Hello Professor,We would like you to review our software engineering project. Please find detailed information and accompanying snapshots below for your reference. "
+    value: "Hello Professor,"
+- type: markdown
+  attributes:
+    value: "We would like you to review our software engineering project. Please find detailed information and accompanying snapshots below for your reference. "
 - type: dropdown
   id: typeofenvi
   attributes:
