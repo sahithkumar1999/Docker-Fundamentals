@@ -1,3 +1,2 @@
-name: General Issue
-description: Can be used for general issues
-tittle: Eg: Unable to add files to GitHub
+name: "Bug report"
+description: "Thank you for reporting a bug!"
