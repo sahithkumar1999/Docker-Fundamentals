@@ -26,11 +26,11 @@ body:
 - type: checkboxes
   id: documentationfolder 
   attributes:
-    label: documentation folder must contain the following files
+    label: Documentation folder must contain the following files
     options:
-      - label: your research paper in word format
+      - label: Research paper in word format
         required: true
-      - label: your research paper in PDF format
+      - label: Research paper in PDF format
         required: true
       - label: Project Power Point Presentation
         required: true
@@ -38,6 +38,11 @@ body:
         required: true
       - label: Readme file
         required: true
+- type: textarea
+  attributes:
+    label: Provide the URL for the above Documentation folder
+  validations:
+    required: true
 - type: textarea
   attributes:
     label: Brief summary of your project.
