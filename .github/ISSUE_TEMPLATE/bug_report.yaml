@@ -1,0 +1,20 @@
+---
+name: General Issues
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
+
+---
+body:
+- type: dropdown
+  id: download
+  attributes:
+    label: What is your Issue about?
+    options:
+      - Errors in Program
+      - Issue realated to GitHub
+      - Update details in Attendence List
+      - others
+  validations:
+    required: true
