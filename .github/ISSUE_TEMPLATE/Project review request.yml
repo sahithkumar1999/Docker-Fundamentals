@@ -18,11 +18,7 @@ body:
       - Others
   validations:
     required: true
-type: textarea
-  attributes:
-    label: The Assigned Problem Statement:
-  validations:
-    required: true
+
 - type: textarea
   attributes:
     label: Brief summary of your project.
