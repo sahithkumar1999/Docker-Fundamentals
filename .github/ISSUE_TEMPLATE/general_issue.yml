@@ -1,9 +1,11 @@
 name: "General_Issue"
 description: "Can be used for general issues"
+title: # Unable to Commit code to GitHub
 body:
 - type: markdown
   attributes:
     value: "Welcome to General Issue page"
+    value: "Please write appropriate title"
 - type: textarea
   attributes:
     label: "Type your Issue below"
