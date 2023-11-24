@@ -20,25 +20,25 @@ body:
     required: true
 type: textarea
   attributes:
-    label: "The Assigned Problem Statement:"
+    label: The Assigned Problem Statement:
   validations:
     required: true
 - type: textarea
   attributes:
-    label: "Brief summary of your project."
+    label: Brief summary of your project.
   validations:
     required: true
 - type: textarea
   attributes:
-    label: "Provide project repository's URL"
+    label: Provide project repository URL
   validations:
     required: true
 - type: textarea
   attributes:
-    label: "Link of main Project code file"
+    label: Link of main Project code file
 - type: textarea
   attributes:
-    label: "Link of Unit tests code file"
+    label: Link of Unit tests code file
 - type: textarea
   attributes:
     label: "Mention names of the existing program Files, if any changes were made to it"
