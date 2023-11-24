@@ -1,4 +1,4 @@
-name: "General_Issue"
+name: "Project review request"
 description: "Applicable to general concerns."
 labels: ["help wanted"]
 body:
