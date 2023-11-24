@@ -1,1 +1,35 @@
-
+name: "General_Issue"
+description: "Applicable to general concerns."
+labels: ["help wanted"]
+body:
+- type: dropdown
+  id: typeofissue
+  attributes:
+    label: Choose the issue type from the dropdown menu.
+    options:
+      - GitHub Commit
+      - Code Debug
+      - Regarding Tasks (or) Exercises
+      - Unable to access Azure Portal
+      - Update details in Attendence list
+      - Others
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: "Please enter your issue in the space provided below."
+- type: textarea
+  attributes:
+    label: "Please include corresponding images or screenshots that reference the identified issue."
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: "Please share the URL of the code related to the issue."
+- type: checkboxes
+  id: selfdeclaration 
+  attributes:
+    label: Self declarations 
+    options:
+      - label: I conducted research on my own before bringing up the matter.
+        required: true
