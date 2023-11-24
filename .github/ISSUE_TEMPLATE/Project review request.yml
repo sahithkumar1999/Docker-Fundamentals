@@ -28,7 +28,7 @@ body:
   attributes:
     label: Documentation folder must contain the following files
     options:
-      - label: Research paper in word format
+      - label: Research paper in word format - Document the project by using of IEEE template provided here. The structure should be followed by IMRAD standard.
         required: true
       - label: Research paper in PDF format
         required: true
@@ -36,7 +36,7 @@ body:
         required: true
       - label: Presentation Recorded video
         required: true
-      - label: Readme file
+      - label: Readme file - The md should include the architecture of the solution (include at least one picture) and instructions to ensure the reader to reproduce what you did in the project.
         required: true
 - type: textarea
   attributes:
@@ -62,6 +62,9 @@ body:
 - type: textarea
   attributes:
     label: "Mention names of the existing program Files, if any changes were made to it"
+- type: textarea
+  attributes:
+    label: Provide individual Commit links for the project. For Example: Best_Group_Ever?author=Github_UserName Student1 .. Student 2..
 - type: checkboxes
   id: selfdeclaration 
   attributes:
