@@ -18,7 +18,7 @@ body:
   attributes:
     label: "Type your Issue below"
 - type: checkboxes
-  id: self declaration 
+  id: selfdeclaration 
   attributes:
     label: Self declarations 
     description: You may select more than one.
