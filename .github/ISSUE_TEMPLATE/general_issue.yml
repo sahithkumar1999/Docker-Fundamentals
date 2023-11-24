@@ -17,6 +17,10 @@ body:
 - type: textarea
   attributes:
     label: "Type your Issue below"
+- type: textarea
+  attributes:
+    label: "provide repective images or screenshots refering to the issue"
+    label: "provide the code URL"
 - type: checkboxes
   id: selfdeclaration 
   attributes:
