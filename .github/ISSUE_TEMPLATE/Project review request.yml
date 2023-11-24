@@ -4,6 +4,9 @@ title: "ML23/24-1 Project_Name Group_Name"
 # labels: [""]
 assignees: ["ddobric"]
 body:
+- type: markdown
+  attributes:
+    value: "We would like you to review our software engineering project. Please find detailed information and accompanying snapshots below for your reference. "
 - type: dropdown
   id: typeofenvi
   attributes:
