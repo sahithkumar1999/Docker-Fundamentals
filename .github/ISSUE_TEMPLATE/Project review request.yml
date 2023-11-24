@@ -13,7 +13,7 @@ body:
 - type: dropdown
   id: typeofenvi
   attributes:
-    label: "## Choose the Github Repository from the dropdown menu."
+    label:  Choose the Github Repository from the dropdown menu.
     options:
       - se-cloud-2023-2024
       - se-cloud-2022-2023
@@ -23,13 +23,13 @@ body:
     required: true
 - type: textarea
   attributes:
-    label: "## The Assigned Problem Statement"
+    label: The Assigned Problem Statement
   validations:
     required: true
 - type: checkboxes
   id: documentationfolder 
   attributes:
-    label: "## Documentation folder must contain the following files"
+    label: Documentation folder must contain the following files
     options:
       - label: Research paper in word format - Document the project by using of IEEE template provided here. The structure should be followed by IMRAD standard.
         required: true
