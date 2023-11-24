@@ -1,8 +1,8 @@
 name: "Project review request"
 description: "Can be used for your final project submission's"
 title: "ML23/24-1 Project_Name Group_Name"
-# labels: [""]
-assignees: ["ddobric"]
+labels: ["project-review-request"]
+assignees: ["ddobric","sahithkumar1999","MahdiehPirmoradian"]
 body:
 - type: markdown
   attributes:
@@ -20,7 +20,7 @@ body:
     required: true
 - type: textarea
   attributes:
-    label: "Please enter your issue in the space provided below."
+    label: "Brief summary of your project."
 - type: textarea
   attributes:
     label: "Please include corresponding images or screenshots that reference the identified issue."
