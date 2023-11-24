@@ -3,7 +3,7 @@ description: "Can be used for general issues"
 title: Unable to Commit code to GitHub
 body:
 - type: dropdown
-  id: download
+  id: typeofissue
   attributes:
     label: Select Type of Issue from the dropdown
     options:
@@ -17,4 +17,11 @@ body:
 - type: textarea
   attributes:
     label: "Type your Issue below"
-  
+- type: checkboxes
+  id: self declaration 
+  attributes:
+    label: Self declarations 
+    description: You may select more than one.
+    options:
+      - label: I had made my self research before raising an issue
+        required: true
