@@ -31,7 +31,7 @@ body:
   attributes:
     label: Documentation folder must contain the following files
     options:
-      - label: Research paper in word format - Document the project by using of IEEE template provided here. The structure should be followed by IMRAD standard.
+      - label: Research paper in word format - Document the project by using of IEEE template provided [here](https://github.com/UniversityOfAppliedSciencesFrankfurt/se-cloud-2023-2024/blob/master/Generallnformation/Report%20Template%20A4%20Masters%20course%20IT.docx). The structure should be followed by IMRAD standard.
         required: true
       - label: Research paper in PDF format
         required: true
