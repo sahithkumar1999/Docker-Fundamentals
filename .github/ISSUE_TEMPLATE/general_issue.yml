@@ -1,5 +1,7 @@
+
 name: "General_Issue"
 description: "Can be used for general issues"
+label: select correct title
 title: Unable to Commit code to GitHub
 body:
 - type: dropdown
