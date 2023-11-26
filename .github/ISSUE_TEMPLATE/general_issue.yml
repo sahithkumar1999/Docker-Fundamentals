@@ -12,6 +12,7 @@ body:
       - Regarding Tasks (or) Exercises
       - Unable to access Azure Portal
       - Update details in Attendence list
+      - Project
       - Others
   validations:
     required: true
