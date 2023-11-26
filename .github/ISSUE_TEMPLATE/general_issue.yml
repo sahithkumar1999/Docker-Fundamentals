@@ -32,5 +32,5 @@ body:
   attributes:
     label: Self declarations 
     options:
-      - label: I conducted research on my own before bringing up the matter.
+      - label: I conducted research on this problem on my own before bringing up the matter.
         required: true
