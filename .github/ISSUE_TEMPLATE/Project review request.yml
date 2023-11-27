@@ -2,7 +2,7 @@ name: "Project review request"
 description: "Can be used for your final project submission's"
 title: "ML23/24-1 Project_Name Group_Name"
 labels: ["project-review-request"]
-assignees: ["ddobric","sahithkumar1999","MahdiehPirmoradian"]
+assignees: ["ddobric"]
 body:
 - type: markdown
   attributes:
