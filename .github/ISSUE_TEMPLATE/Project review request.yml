@@ -22,9 +22,9 @@ body:
     options:
       - label: Research paper in word format - Document the project by using of IEEE template. The structure should be followed by IMRAD standard.File Name format Best_Group_Ever-Paper.docx
         required: true
-      - label: Research paper in PDF format. (File Name: Best_Group_Ever-Paper.pdf)
+      - label: Research paper in PDF format. File Name format Best_Group_Ever-Paper.pdf
         required: true
-      - label: Project Power Point Presentation. (File Name: Best_Group_Ever-Project_Presentation.pptx)
+      - label: Project Power Point Presentation. File Name format Best_Group_Ever-Project_Presentation.pptx
         required: true
       - label: Presentation Recorded video
         required: true
