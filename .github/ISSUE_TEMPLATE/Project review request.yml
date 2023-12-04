@@ -20,7 +20,7 @@ body:
   attributes:
     label: Documentation folder must contain the following files
     options:
-      - label: Research paper in word format - Document the project by using of IEEE template. The structure should be followed by IMRAD standard.(File Name: Best_Group_Ever-Paper.docx)
+      - label: Research paper in word format - Document the project by using of IEEE template. The structure should be followed by IMRAD standard.File Name: Best_Group_Ever-Paper.docx
         required: true
       - label: Research paper in PDF format. (File Name: Best_Group_Ever-Paper.pdf)
         required: true
