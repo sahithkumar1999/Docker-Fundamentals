@@ -26,18 +26,11 @@ body:
         required: true
       - label: Project Power Point Presentation. File Name format Best_Group_Ever-Project_Presentation.pptx
         required: true
-      - label: Presentation Recorded video
-        required: true
-      - label: Readme file - The md should include the architecture of the solution (include at least one picture) and instructions to ensure the reader to reproduce what you did in the project.
+      - label: Readme file - The md should include the architecture of the solution (include at least one picture) and instructions to ensure the reader to reproduce what you did in the project. File Name format Readme.md
         required: true
 - type: textarea
   attributes:
     label: Provide the URL for the above Documentation folder
-  validations:
-    required: true
-- type: textarea
-  attributes:
-    label: Brief summary of your project.
   validations:
     required: true
 - type: textarea
@@ -47,13 +40,7 @@ body:
     required: true
 - type: textarea
   attributes:
-    label: Link of main Project code file
-  validations:
-    required: true
+    label: Link of Unit tests code file, only if your project has test cases implementation.
 - type: textarea
   attributes:
-    label: Link of Unit tests code file
-- type: textarea
-  attributes:
-    label: "Mention names of the existing program Files, if any changes were made to it"
-
+    label: "Mention names and links of the existing program Files, if any changes were made to it"
