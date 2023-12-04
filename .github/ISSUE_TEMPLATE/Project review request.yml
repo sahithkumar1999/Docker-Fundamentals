@@ -10,20 +10,9 @@ body:
 - type: markdown
   attributes:
     value: "We would like you to review our software engineering project. Please find detailed information and accompanying snapshots below for your reference. "
-- type: dropdown
-  id: typeofenvi
-  attributes:
-    label: Choose the Github Repository from the dropdown menu.
-    options:
-      - se-cloud-2023-2024
-      - se-cloud-2022-2023
-      - Forked NeocortexApi
-      - Others
-  validations:
-    required: true
 - type: textarea
   attributes:
-    label: The Assigned Problem Statement
+    label: Provide all team members individual Commit links for the project. For Example Best_Group_Ever?author=Github_UserName
   validations:
     required: true
 - type: checkboxes
@@ -67,8 +56,4 @@ body:
 - type: textarea
   attributes:
     label: "Mention names of the existing program Files, if any changes were made to it"
-- type: textarea
-  attributes:
-    label: Provide all team members individual Commit links for the project. For Example Best_Group_Ever?author=Github_UserName
-  validations:
-    required: true
+
