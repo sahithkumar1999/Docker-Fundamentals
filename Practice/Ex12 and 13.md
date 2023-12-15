@@ -17,4 +17,11 @@
 
 ## Step by Step Process
 ### E12: Working with MultisequenceExperiment
+- Create an Console Application.
+- Copy the Program.cs and MultisequenceLearning.cs  to the Console Application as to resolve dependacy issues.
+- In program.cs uncomment the below line
+  ```csharp
+  RunMultiSequenceLearningExperiment();
+  ```
+- Run the Application.
 - 
