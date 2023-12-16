@@ -58,7 +58,7 @@
 - Add the `NeoCortexApi` NuGet package from the NuGet Package Manager.
   ![image](https://github.com/sahithkumar1999/Learning_Courses/assets/64829519/cb0f7082-afbe-453c-b37a-816c382d4293)
 
-- Copy the `Program.cs` and `MultisequenceLearning.cs` files to the Console Application to resolve dependency issues.
+- Copy the `Program.cs` and `MultisequenceLearning.cs` files to the Console Application to resolve dependency issues. theses files are present in `\source\Samples\NeoCortexApiSample`
   ![image](https://github.com/sahithkumar1999/Learning_Courses/assets/64829519/6d86b9ee-5ff2-4697-b488-aaf736f66fbe)
 
 - In `Program.cs`, uncomment the following line:
