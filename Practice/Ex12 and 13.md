@@ -34,7 +34,7 @@
   ![Screenshot 2023-12-16 011022](https://github.com/sahithkumar1999/Learning_Courses/assets/64829519/48cba37b-5602-4c1f-8cd6-43e39d275b85)
 - Run the Code
 - Copy the Active SDR values
-- - Open the Python Script folder in Visual Studio Code.
+-  Open the Python Script folder in Visual Studio Code.
   ![image](https://github.com/sahithkumar1999/Learning_Courses/assets/64829519/5ab8739e-faf1-4026-a750-40c927063b2b)
 
 - paste the copied data to sampleOne.txt ( `\Python\ColumnActivityDiagram/sampleOne.txt`)
