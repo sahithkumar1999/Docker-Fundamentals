@@ -14,14 +14,14 @@
 
 ## Step by Step Process
 ## E12: Working with SpatialPatternLearning
-- open [NeoCortexApi](https://github.com/ddobric/neocortexapi) in your browser.
+- Open [NeoCortexApi](https://github.com/ddobric/neocortexapi) in your browser.
 - Fork the Repository and set an name for your forked repository.
 ![Screenshot 2023-12-16 010008](https://github.com/sahithkumar1999/Learning_Courses/assets/64829519/791eb946-eb13-4e3d-88d0-f9ffc4d7b3e4)
 
 ![Screenshot 2023-12-16 010053](https://github.com/sahithkumar1999/Learning_Courses/assets/64829519/93733399-7edf-4532-a6d5-8b37e84ca40a)
 
 - Clone the forked repository to your local machine using the command: `git clone [repository HTTPS link]`.
--  open `NeoCortexApi.sln`located in `/source/NeoCortexApi.sln`.
+- Open `NeoCortexApi.sln`located in `/source/NeoCortexApi.sln`.
 - Select the NeoCortexApiSample project from the dropdown menu.
   ![Screenshot 2023-12-16 010714](https://github.com/sahithkumar1999/Learning_Courses/assets/64829519/66a018c7-a2e0-4121-93a2-6ef182258f99)
 
@@ -34,14 +34,14 @@
   ![Screenshot 2023-12-16 011022](https://github.com/sahithkumar1999/Learning_Courses/assets/64829519/48cba37b-5602-4c1f-8cd6-43e39d275b85)
 - Run the Code
 - Copy the Active SDR values
--  Open the Python Script folder in Visual Studio Code.
+- Open the Python Script folder in Visual Studio Code.
   ![image](https://github.com/sahithkumar1999/Learning_Courses/assets/64829519/5ab8739e-faf1-4026-a750-40c927063b2b)
 
-- paste the copied data to sampleOne.txt ( `\Python\ColumnActivityDiagram/sampleOne.txt`)
+- Paste the copied data to sampleOne.txt ( `\Python\ColumnActivityDiagram/sampleOne.txt`)
   ![image](https://github.com/sahithkumar1999/Learning_Courses/assets/64829519/0d5b4d89-68c1-42ce-9084-594b4bb104cc)
 
 - In the Visual Studio Code terminal, run the following command:
-  ```Csharp
+  ```csharp
   python draw_figure.py -fn sampleOne.txt -gn test1 -mc 19 -ht 8 -yt yaxis -xt xaxis -min 50 -max 4000 -st 'single column' -fign CortialColumn
   ```
   ![image](https://github.com/sahithkumar1999/Learning_Courses/assets/64829519/f7d1e741-38d7-4f80-8484-91b6eda42745)
@@ -74,7 +74,7 @@
 - Open the Python Script folder in Visual Studio Code.
   ![image](https://github.com/sahithkumar1999/Learning_Courses/assets/64829519/5ab8739e-faf1-4026-a750-40c927063b2b)
 
-- paste the copied data to sampleOne.txt ( `\Python\ColumnActivityDiagram/sampleOne.txt`)
+- Paste the copied data to sampleOne.txt ( `\Python\ColumnActivityDiagram/sampleOne.txt`)
   ![image](https://github.com/sahithkumar1999/Learning_Courses/assets/64829519/0d5b4d89-68c1-42ce-9084-594b4bb104cc)
 
 - In the Visual Studio Code terminal, run the following command:
