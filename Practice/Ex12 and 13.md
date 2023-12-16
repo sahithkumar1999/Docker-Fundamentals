@@ -13,7 +13,7 @@
 5.	Show active columns with the python script.
 
 ## Step by Step Process
-## E12: Working with SpatialPatternLearning
+## <ins>E12: Working with SpatialPatternLearning</ins>
 - Open [NeoCortexApi](https://github.com/ddobric/neocortexapi) in your browser.
 - Fork the Repository and set an name for your forked repository.
 ![Screenshot 2023-12-16 010008](https://github.com/sahithkumar1999/Learning_Courses/assets/64829519/791eb946-eb13-4e3d-88d0-f9ffc4d7b3e4)
@@ -53,7 +53,7 @@
 
 
 
-## E13: Working with MultisequenceExperiment
+## <ins>E13: Working with MultisequenceExperiment</ins>
 - Create a Console Application.
 - Add the `NeoCortexApi` NuGet package from the NuGet Package Manager.
   ![image](https://github.com/sahithkumar1999/Learning_Courses/assets/64829519/cb0f7082-afbe-453c-b37a-816c382d4293)
