@@ -35,12 +35,9 @@ body:
     required: true
 - type: textarea
   attributes:
-    label: Provide project repository URL
+    label: Provide the project repository URL and also the Unit test file if used in your project
   validations:
     required: true
-- type: textarea
-  attributes:
-    label: Link of Unit tests code file, only if your project has test cases implementation.
 - type: textarea
   attributes:
     label: "Mention names and links of the existing program Files, if any changes were made to it"
